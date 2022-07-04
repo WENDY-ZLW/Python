@@ -1,4 +1,4 @@
-#This file uses the encoding: utf-8
+# This Python file uses the following encoding: utf-8
 import random
 from urllib import urlopen
 import sys
