@@ -16,7 +16,7 @@ if door == "1":
     else:
         print "Well, doing %s is probably better. Bear runs away." % bear
         
-elif door == "2":
+elif door == "2": #2
     print "Your stare into the endless abyss at Cthulhu's retina."
     print "1.Blueberries."
     print "2.Yellow jacket clothespins."
